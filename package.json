@@ -1,0 +1,14 @@
+{
+  "name": "dotz",
+  "version": "1.0.0",
+  "description": "A canvas anime lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "Phantr4x",
+  "license": "MIT"
+}
